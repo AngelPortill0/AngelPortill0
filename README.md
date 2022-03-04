@@ -1,6 +1,15 @@
-### Hey, Angel here! <img align=right alt="Octocat" width="100px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
+<h1 align=center> 
+  Hey, Angel here! 
+</h1>
 
-I'm a Systems Engineer Student <img alt="Graduation Cap" width="20px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/graduation-cap_1f393.png" />
+<p align=center>
+  I'm a Systems Engineer Student 
+  <img alt="Graduation Cap" width="20px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/graduation-cap_1f393.png" />
+</p>
+
+<p align=center>
+  <img alt="Octocat" width="100px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
+</p>
 
 ---
 
