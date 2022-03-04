@@ -3,7 +3,7 @@
 </h1>
 
 <p align=center>
-  I'm a Systems Engineer Student 
+  <strong> I'm a Systems Engineer Student </strong>
   <img alt="Graduation Cap" width="20px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/graduation-cap_1f393.png" />
 </p>
 
