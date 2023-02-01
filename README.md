@@ -1,55 +1,53 @@
-<h1 align=center> 
-  Hey, Angel here! 
-</h1>
+# 🚀 About
 
-<p align=center>
-  <strong> I'm a Systems Engineer Student </strong>
-  <img alt="Graduation Cap" width="20px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/graduation-cap_1f393.png" />
+<h2> Hey, Angel here! </h2>
+<p>
+    Systems Engineer Student 🎓
+    </br>
+    Developer at Palacio de Justicia de Maracaibo ⚖️
 </p>
 
-<p align=center>
-  <img alt="Octocat" width="100px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
-</p>
 
----
-<div align=center>
+<h2>SKILLS</h2>
+
+- 🔭 Backend ： 
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white&color=blue)
+  ![Sequelize.js](https://img.shields.io/badge/Sequelize.js-404D59?style=flat&logo=sequelize&logoColor=white&color=02afef)
+
+- 👓 Frontend： 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E44C30?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-404D59?style=flat&logo=CSS3&logoColor=white&color=02afef)
+
+- ⚙️ Database：
+  ![SQLServer](https://img.shields.io/badge/SQL%20Server-E44C30?style=flat&logo=microsoft%20sql%20server)
+  ![Mysql](https://img.shields.io/badge/-Mysql-blue?style=flat&logo=mysql&logoColor=white)
+  ![Access](https://img.shields.io/badge/Access-orange?style=flat&logo=microsoft-access)
   
-  ![Languages](https://img.shields.io/static/v1?label=&message=Languages:&color=4c566a&style=flat)  
-  ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=2e3440&style=flat&logo=JavaScript)
-  ![Html](https://img.shields.io/static/v1?label=&message=HTML5&color=2e3440&style=flat&logo=Html5)
-  ![Css](https://img.shields.io/static/v1?label=&message=CSS3&color=2e3440&style=flat&logo=CSS3)
-  ![Java](https://img.shields.io/static/v1?label=&message=Java&color=2e3440&style=flat&logo=Java)
-  ![Python](https://img.shields.io/static/v1?label=&message=Python&color=2e3440&style=flat&logo=Python)
-  
-  
-  
-  ![Utilities](https://img.shields.io/static/v1?label=&message=Utilities:&color=4c566a&style=flat) </br>
-  ![Git](https://img.shields.io/static/v1?label=&message=Git&color=2e3440&style=flat&logo=Git)
-  ![Github](https://img.shields.io/static/v1?label=&message=Github&color=2e3440&style=flat&logo=Github)
-  ![PhpMyAdmin](https://img.shields.io/static/v1?label=&message=PhpMyAdmin&color=2e3440&style=flat&logo=PhpMyAdmin)
-  
-  
-  
-  ![DataBase](https://img.shields.io/static/v1?label=&message=Database:&color=4c566a&style=flat) </br>
-  ![MYSQL](https://img.shields.io/static/v1?label=&message=MYSQL&color=2e3440&style=flat&logo=MYSQL)
-  ![SQLite](https://img.shields.io/static/v1?label=&message=SQLite&color=2e3440&style=flat&logo=SQLite)
-  
+- 🔨 Used tools：
+  ![Github](https://img.shields.io/badge/GitHub-222333?style=flat&logo=github&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+
+- 💻 OS : 
+  ![Windows](https://img.shields.io/badge/Windows%20&amp;%20Windows%20Server-02afef?style=flat&logo=windows&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-orange?style=flat&logo=Linux&logoColor=white)
+
+- 🌱 Learning：
+  ![Sequelize.js](https://img.shields.io/badge/React.js-404D59?style=flat&logo=react&logoColor=white&color=02afef)
+  ![Docker](https://img.shields.io/badge/Docker-404D59?style=flat&logo=Docker&logoColor=white&color=blue)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-404D59?style=flat&logo=Postgresql&logoColor=white&color=699eca)
+
+
+</br>
+
+# 📲 Contact
+<div style="margin-left: 20px">
+  <a href="mailto:angelportilloparra@gmail.com"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" style="height: 50px; margin-right: 25px"> 
+  </a> 
+  <a href="#"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" style="height: 46px"> 
+  </a>
 </div>
 
-
-
-
-<!--
-**AngelPortill0/AngelPortill0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
