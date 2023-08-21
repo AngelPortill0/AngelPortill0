@@ -43,10 +43,7 @@
 
 # 📲 Contact
 <div style="margin-left: 20px">
-  <a href="mailto:angelportilloparra@gmail.com"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" style="height: 50px; margin-right: 25px"> 
-  </a> 
-  <a href="#"> 
+  <a href="https://www.linkedin.com/in/angel-portillo-parra/"> 
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" style="height: 46px"> 
   </a>
 </div>
