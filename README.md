@@ -2,7 +2,7 @@
 
 <h2> Hey, Angel here! </h2>
 <p>
-    Systems Engineer Student 🎓
+    System Engineer
     </br>
     Developer at Palacio de Justicia de Maracaibo ⚖️
 </p>
