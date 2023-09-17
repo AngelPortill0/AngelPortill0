@@ -4,7 +4,7 @@
 <p>
     System Engineer
     </br>
-    Developer at Palacio de Justicia de Maracaibo ⚖️
+    Developer at Organización Comercial Belloso COBECA 💊
 </p>
 
 
