@@ -14,6 +14,7 @@
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white&color=blue)
   ![Sequelize.js](https://img.shields.io/badge/Sequelize.js-404D59?style=flat&logo=sequelize&logoColor=white&color=02afef)
+  ![Python](https://img.shields.io/badge/Python-404D59?style=flat&logo=python&logoColor=white&color=blue)
 
 - 👓 Frontend： 
   ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
@@ -34,14 +35,12 @@
   ![Linux](https://img.shields.io/badge/-Linux-orange?style=flat&logo=Linux&logoColor=white)
 
 - 🌱 Learning：
-  ![Sequelize.js](https://img.shields.io/badge/React.js-404D59?style=flat&logo=react&logoColor=white&color=02afef)
   ![Docker](https://img.shields.io/badge/Docker-404D59?style=flat&logo=Docker&logoColor=white&color=blue)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-404D59?style=flat&logo=Postgresql&logoColor=white&color=699eca)
+  ![Django](https://img.shields.io/badge/Django-404D59?style=flat&logo=django&logoColor=white&color=green)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-404D59?style=flat&logo=vuedotjs&logoColor=white&color=purple)
 
-
-</br>
-
-# 📲 Contact
+# Contact
 <div style="margin-left: 20px">
   <a href="https://www.linkedin.com/in/angel-portillo-parra/"> 
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" style="height: 46px"> 
