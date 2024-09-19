@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there! Angel here. 👋
 
-<!--
-**AngelPortill0/AngelPortill0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a system engineer from Venezuela. 🇻🇪
 
-Here are some ideas to get you started:
+I'm currently working with **<a href="https://www.djangoproject.com/" target="_blank">Django</a>**, **<a href="https://fastapi.tiangolo.com" target="_blank">FastAPI</a>** & **<a href="https://vuejs.org/" target="_blank">Vue.js</a>**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have been designing Software Architectures and building APIs, Automated Tasks with Python and Node for data systems with many teams and organizations. 🐍🌎
+
+I'm really interested now in **<a href="https://aws.amazon.com/" target="_blank">AWS</a>**. 🤓🚀
+
+You can reach me on:
+- [GitHub as @AngelPortill0 (you are here)](https://github.com/AngelPortill0)
+- [LinkedIn](https://www.linkedin.com/in/angel-portillo-parra/)
