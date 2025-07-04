@@ -2,7 +2,7 @@ Hi there! Angel here. 👋
 
 I'm a system engineer from Venezuela. 🇻🇪
 
-I'm currently working with **<a href="https://www.djangoproject.com/" target="_blank">Django</a>**, **<a href="https://fastapi.tiangolo.com" target="_blank">FastAPI</a>** & **<a href="https://vuejs.org/" target="_blank">Vue.js</a>**
+I'm currently working with **<a href="https://nodejs.org/en" target="_blank">Node</a>**, **<a href="https://aws.amazon.com/" target="_blank">AWS</a>** & **<a href="https://vuejs.org/" target="_blank">Vue.js</a>**
 
 I have been designing Software Architectures and building APIs, Automated Tasks with Python and Node for data systems with many teams and organizations. 🐍🌎
 
